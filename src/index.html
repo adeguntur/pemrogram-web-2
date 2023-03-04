@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Quiz 1</title>
+    <style>
+      /* Style untuk body */
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+      }
+      /* Style untuk container */
+      .container {
+        display: flex;
+        flex-direction: row;
+        height: 100vh;
+      }
+      /* Style untuk kolom 1 */
+      .col-1 {
+        flex-basis: 30%;
+        background-color: #ffffff;
+      }
+      /* Style untuk kolom 2 */
+      .col-2 {
+        display: flex;
+        flex-basis: 70%;
+        flex-direction: column;
+      }
+      /* Style untuk baris 1 pada kolom 2 */
+      .col-2 .row-1 {
+        flex-basis: 10%;
+        background-color: #ffffff;
+      }
+      /* Style untuk baris 2 pada kolom 2 */
+      .col-2 .row-2 {
+        flex-basis: 90%;
+        background-color: #ffffff;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="col-1">
+        <iframe
+          src="C:\Users\ade.guntur\Desktop\prog_web2\quiz1\src\frame\frame1.html"
+          name="frame1"
+          width="100%"
+          height="100%"
+        ></iframe>
+      </div>
+      <div class="col-2">
+        <div class="row-1">
+          <iframe
+            src="C:\Users\ade.guntur\Desktop\prog_web2\quiz1\src\frame\frame2.html"
+            name="frame2"
+            width="100%"
+            height="100%"
+          ></iframe>
+        </div>
+        <div class="row-2">
+          <iframe
+            src="C:\Users\ade.guntur\Desktop\prog_web2\quiz1\src\frame\frame3.html"
+            name="frame3"
+            width="100%"
+            height="100%"
+          ></iframe>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
