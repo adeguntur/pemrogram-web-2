@@ -12,12 +12,7 @@
   </head>
   <body>
     <div>
-      <img
-        src="C:\Users\ade.guntur\Desktop\prog_web2\quiz1\assets\logo.png"
-        alt=""
-        width="100"
-        height="130"
-      />
+      <img src="\prog-web2\quiz1\assets\logo.png" alt="" width="100" height="130" />
     </div>
   </body>
 </html>

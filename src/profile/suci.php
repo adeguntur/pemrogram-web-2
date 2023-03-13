@@ -24,12 +24,7 @@
     </style>
   </head>
   <body>
-    <img
-      src="C:\Users\ade.guntur\Desktop\prog_web2\quiz1\assets\woman.png"
-      alt=""
-      width="200"
-      height="200"
-    />
+    <img src="\prog-web2\quiz1\assets\woman.png" alt="" width="200" height="200" />
     <p>Nama : <b>Suci</b></p>
     <p>Alamat : <i>Sunter Jaya, Tanjung Priok</i></p>
     <p>

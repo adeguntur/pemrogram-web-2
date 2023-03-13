@@ -21,25 +21,13 @@
     <div class="content">
       <h3>List Nama Mahasiswa:</h3>
       <p>
-        <a
-          href="C:\Users\ade.guntur\Desktop\prog_web2\quiz1\src\profile\ade.html"
-          target="frame3"
-          >Ade Guntur Ramadhan</a
-        >
+        <a href="\prog-web2\quiz1\src\profile\ade.php" target="frame3">Ade Guntur Ramadhan</a>
       </p>
       <p>
-        <a
-          href="C:\Users\ade.guntur\Desktop\prog_web2\quiz1\src\profile\budi.html"
-          target="frame3"
-          >Budi</a
-        >
+        <a href="\prog-web2\quiz1\src\profile\budi.php" target="frame3">Budi</a>
       </p>
       <p>
-        <a
-          href="C:\Users\ade.guntur\Desktop\prog_web2\quiz1\src\profile\suci.html"
-          target="frame3"
-          >Suci</a
-        >
+        <a href="\prog-web2\quiz1\src\profile\suci.php" target="frame3">Suci</a>
       </p>
     </div>
   </body>

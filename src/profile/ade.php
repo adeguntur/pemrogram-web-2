@@ -25,12 +25,7 @@
     </style>
   </head>
   <body>
-    <img
-      src="C:\Users\ade.guntur\Desktop\prog_web2\quiz1\assets\ade.jpg"
-      alt=""
-      width="200"
-      height="200"
-    />
+    <img src="\prog-web2\quiz1\assets\ade.jpg" alt="" width="200" height="200" />
     <p>Nama : <b>Ade Guntur Ramadhan</b></p>
     <p>Alamat : <i>Paseban, Senen</i></p>
     <p>

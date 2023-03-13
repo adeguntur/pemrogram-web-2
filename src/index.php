@@ -42,7 +42,7 @@
     <div class="container">
       <div class="col-1">
         <iframe
-          src="C:\Users\ade.guntur\Desktop\prog_web2\quiz1\src\frame\frame1.html"
+          src="frame/frame1.php"
           name="frame1"
           width="100%"
           height="100%"
@@ -51,7 +51,7 @@
       <div class="col-2">
         <div class="row-1">
           <iframe
-            src="C:\Users\ade.guntur\Desktop\prog_web2\quiz1\src\frame\frame2.html"
+            src="frame/frame2.php"
             name="frame2"
             width="100%"
             height="100%"
@@ -59,7 +59,7 @@
         </div>
         <div class="row-2">
           <iframe
-            src="C:\Users\ade.guntur\Desktop\prog_web2\quiz1\src\frame\frame3.html"
+            src="frame/frame3.php"
             name="frame3"
             width="100%"
             height="100%"
